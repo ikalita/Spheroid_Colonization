@@ -76,7 +76,7 @@ The script calculates:
 * MATLAB
 * Fluorescence microscopy Z-stack images in TIFF format
 * Nuclear fluorescence channel for spheroid segmentation
-* GFP and/or mCherry fluorescence channels for bacterial quantification
+* GFP and mCherry fluorescence channels for bacterial quantification
 
 ## Notes
 
