@@ -81,3 +81,7 @@ The script calculates:
 ## Notes
 
 Run the scripts in the order shown above. The output of each step is used as an input for the subsequent analysis step.
+
+## License
+
+This scripts are licensed under CC BY-NC-SA 4.0
